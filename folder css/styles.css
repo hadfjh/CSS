@@ -1,0 +1,175 @@
+/* CSS Document */
+
+body {
+	color: #405143;
+	margin:0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+p {line-height: 2;
+	
+	
+}
+hr{border: dotted #eaf6f6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;}
+
+
+a{ color: #11999e;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
+	
+}
+a:hover {
+	color: #eaf6f6;
+}
+.copyright {
+	color: #2D0222;
+	font-size: 0.75;
+	padding: 20px 0;
+	
+}
+
+
+h1 {
+color: #66bfbf;
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive; 
+font-size: 5.625rem;
+}
+
+.top-container {
+	background-color:#d2fafb;
+	position: relative;
+	padding-top: 100px;
+
+}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #11999e;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+.contactmessage {width: 40%;
+margin: 40px auto 60px;
+line-height: 2;
+}
+
+.middle-container {
+margin: 100px 0;
+	
+	
+}
+.intro{
+	width: 30%;
+	margin: auto;
+	line-height: 2;
+	
+	
+}
+.bottom-container {
+background-color: #d2fafb;
+	padding: 50px 20px;
+	
+	
+	
+}
+.top-cloud { 
+	position: absolute;
+right: 300px;
+top: 40px;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 250px;
+}
+.profile-pic{
+	border-radius: 50%;
+	width: 30%;
+	height: 30%;
+	
+	
+	
+}
+.gif{
+border-radius: 50%;
+	width: 25%;
+height: 25%;
+float: right;
+marigin-left: 30px;
+}
+
+.soccer {
+border-radius: 50%;
+width: 25%;
+height: 25%;
+float: left;
+marigin-right: 30px;
+}
+.skill-row {
+width: 50%;
+margin: 100px auto 100px;
+text-align: left;
+float: left;
+margin-right: 30px
+}
+
+
+	
+	
+	
+	
+	
+
+
+
+.btn {
+	-moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	-webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background-color:#7892c2;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	padding:11px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
